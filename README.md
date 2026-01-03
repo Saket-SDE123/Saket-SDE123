@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am currently working as a software developer.<br>Currently working on Angular and node.<br>I have the knowledge of asp.net core, MVC, React Js react native
+Hi, I'm Saket Kumar Pandey! 👋
+Full-Stack Developer | .NET & JavaScript Ecosystem
+
+I am a Software Engineer based in Lucknow, India , currently at King George Medical University. With over 3 years of experience, I specialize in building robust enterprise applications using the Microsoft Tech Stack while maintaining a versatile frontend skill set in React, Angular, and React Native
 
 
 # 💻 Tech Stack:
